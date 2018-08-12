@@ -3,7 +3,7 @@ extra-deps:
 - git: https://github.com/haskoin/haskoin-core.git
   commit: 7b46e403e6aaf55116af4a1214f8359c458895e0
 - git: https://github.com/haskoin/old-haskoin-node.git
-  commit: f2b1a7fd02c553f6e1bc25a74df4aaf572877264
+  commit: bf0c669fb355a88dc030a78eb458e86a50ca83cd
 - daemons-0.2.1
 - pbkdf-1.1.1.1
 - murmur3-1.0.3
